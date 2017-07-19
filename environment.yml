@@ -1,0 +1,16 @@
+name: get17_sna
+dependencies:
+  - python=3
+  - jupyter
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - cython
+  - graphviz
+  - networkx
+  - requests
+  - pip:
+    - tweepy
+    - pydotplus
