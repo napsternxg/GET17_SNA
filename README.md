@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GET 17 - SNA
 
 ## Installation
@@ -11,3 +12,7 @@ conda env create -f environment.yml
 ```
 jupyter notebook
 ```
+=======
+# GET17_SNA
+Social Network Analysis course
+>>>>>>> f5b176dc5f8a73ba4da69c05e7287a9921e2b1cc
